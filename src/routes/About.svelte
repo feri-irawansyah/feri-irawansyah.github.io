@@ -35,7 +35,7 @@
 
       <div class="row gy-4 justify-content-center">
         <div class="col-lg-4 d-flex about-img">
-          <img src="/img/profile.jpg" class="img-fluid" alt="Profile Tidak ada">
+          <img src="/img/feri.jpg" class="img-fluid rounded" alt="Profile Tidak ada">
           <div class="badge-container">
             <Badge text={experience} />
           </div>

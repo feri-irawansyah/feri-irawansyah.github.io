@@ -63,10 +63,10 @@
         {
           "title": "Snakesystem Onboarding Client",
           "category": "frontend",
-          "image": "/img/portfolio/snakesystem-onboarding-client.jpeg",
+          "image": "/img/portfolio/onboarding-custommer.png",
           "gallery": "portfolio-gallery-frontend",
           "description": "Snakesystem Onboarding Client adalah aplikasi web clone dari aplikasi Custoommer Onboarding Client yang saya buat menggunakan React di tempat saya bekerja. Aplikasi ini adalah sebuah form untuk calon nasabah yang ingin mendaftarkan diri untuk melakukan trading di suatu sekuritas",
-          "link": "https://sveltekit-onboarding-client.vercel.app",
+          "link": "https://onboarding-custommer.vercel.app",
           "techs": [
             {
               "name": "Javascript",
