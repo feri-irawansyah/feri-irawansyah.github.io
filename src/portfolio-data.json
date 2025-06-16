@@ -61,6 +61,66 @@
           ]
         },
         {
+          "title": "Laundery Web API",
+          "category": "web-api",
+          "image": "/img/portfolio/laundery.png",
+          "gallery": "portfolio-gallery-web-api",
+          "description": "RESTful API untuk laundery app yang scalable dan secure. Dilengkapi dengan fitur authentikasi JWT. dan dokumentasi OpenAPI. Web API ini khusus saya buat sebagai backend dari aplikasi Web Portfolio saya dan beberapa aplikasi lainnya.",
+          "link": "https://laundery.techsnakesystem.workers.dev/docs",
+          "techs": [
+            {
+              "name": "Type Script",
+              "link": "https://www.typescriptlang.org/",
+              "img": "/img/skills/ts.png"
+            },
+            {
+              "name": "Hono Framework",
+              "link": "https://hono.dev/",
+              "img": "/img/skills/hono.png"
+            },
+            {
+              "name": "Postgre SQL",
+              "link": "https://www.postgresql.org/",
+              "img": "/img/skills/postgresql.png"
+            },
+            {
+              "name": "Json Web Token",
+              "link": "https://jwt.io", 
+              "img": "/img/skills/jwt.svg"
+            },
+            {
+              "name": "OpenAPI Specification",
+              "link": "https://www.openapis.org",
+              "img": "/img/skills/swagger.png"
+            },
+            {
+              "name": "Vite",
+              "link": "https://vitejs.dev/",
+              "img": "/img/skills/vite.png"
+            },
+            {
+              "name": "Cloudflare Workers",
+              "link": "https://workers.cloudflare.com/",
+              "img": "/img/skills/cloudflare.png"
+            },
+            {
+              "name": "JSX Syntax",
+              "link": "https://react.dev/",
+              "img": "/img/skills/react.png"
+            },
+            {
+              "name": "Web Socket",
+              "link": "https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API", 
+              "img": "/img/skills/websocket.svg"
+            },
+            {
+              "name": "SMTP Server",
+              "link": "https://www.smtp.com",
+              "img": "/img/skills/smtp.png"
+            }
+          ]
+        },
+        {
           "title": "Snakesystem Onboarding Client",
           "category": "frontend",
           "image": "/img/portfolio/onboarding-custommer.png",
@@ -347,57 +407,6 @@
           "description": "Proyek branding digital untuk startup teknologi kreatif."
         }
       ],
-    "blogs": [
-        {
-            "title": "Actix Web x Microsoft SQL Server 🚀",
-            "description": "Integrasi Actix Web dengan Microsoft SQL Server memerlukan asynchronous dengan tokio.",
-            "url": "https://snakesystem-library.vercel.app/#/notes/technology/connect-mssql-with-rust",
-            "image": "/img/blog/actix-web-mssql.png",
-            "updated_at": "2023-02-22T10:00:00+07:00"
-        },
-        {
-            "title": "CRUD Actix Web x Svelte",
-            "description": "Untuk membuat Create, Read, Update dan Delete (CRUD) menggunakan Actix Web dan Svelte.",
-            "url": "#",
-            "image": "/img/blog/crud-actix-web-svelte.png",
-            "updated_at": "2023-02-22T10:00:00+07:00"
-        },
-        {
-            "title": "Type Data in Rust 🦀",
-            "description": "Pembagian kategori type data di Rust adalah sebagai berikut.",
-            "url": "#",
-            "image": "/img/blog/type-data-rust.png",
-            "updated_at": "2023-02-22T10:00:00+07:00"
-        },
-        {
-            "title": "CRUD using Stored Procedure with Actix Web x Microsoft SQL Server",
-            "description": "Dengan Stored Procedure kita bisa membuat Create, Read, Update dan Delete (CRUD) lebih clean.",
-            "url": "#",
-            "image": "/img/blog/crud-actix-web-mssql.png",
-            "updated_at": "2023-02-22T10:00:00+07:00"
-        },
-        {
-            "title": "Actix Web + JWT Authentication 🔏",
-            "description": "Token biasanya akan disimpan di cookie atau local storage pada browser.",
-            "url": "#",
-            "image": "/img/blog/actix-web-jwt.png",
-            "updated_at": "2023-02-22T10:00:00+07:00"
-        },
-        {
-            "title": "Actix Web + Swagger OpenAPI Specification 📚",
-            "description": "Dokumentasi yang baik sangat membantu dalam mempermudah dalam mempelajari integrasi ke beberapa aplikasi lain.",
-            "url": "#",
-            "image": "/img/blog/actix-web-swagger.png",
-            "updated_at": "2023-02-22T10:00:00+07:00"
-        },
-        {
-            "title": "Bye bye React 👋, Hello Svelte",
-            "description": "Dari React ke Svelte adalah sebuah perubahan yang cukup signifikan.",
-            "url": "#",
-            "image": "/img/blog/actix-web-swagger.png",
-            "updated_at": "2023-02-22T10:00:00+07:00"
-        }
-    ],
     "skills": [
         {
             "title": "Rust",
