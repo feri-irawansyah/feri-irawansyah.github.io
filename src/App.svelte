@@ -97,7 +97,7 @@
     <!-- /Blog Section -->
 
     <!-- Testimonials Section -->
-    <Testimoni/>
+    <!-- <Testimoni/> -->
     <!-- /Testimonials Section -->
 
     <!-- Contact Section -->
