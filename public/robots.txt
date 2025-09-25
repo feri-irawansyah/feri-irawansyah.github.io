@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-# Optional: submit this sitemap to Google Search Console jika kamu bikin
-Sitemap: https://feri-irawansyah.github.io/sitemap.xml
-
-Disallow: /README.md
